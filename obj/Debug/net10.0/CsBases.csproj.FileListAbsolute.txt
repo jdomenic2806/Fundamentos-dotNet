@@ -1,0 +1,14 @@
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/bin/Debug/net10.0/CsBases
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/bin/Debug/net10.0/CsBases.deps.json
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/bin/Debug/net10.0/CsBases.runtimeconfig.json
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/bin/Debug/net10.0/CsBases.dll
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/bin/Debug/net10.0/CsBases.pdb
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.AssemblyInfoInputs.cache
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.AssemblyInfo.cs
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.csproj.CoreCompileInputs.cache
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.dll
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/refint/CsBases.dll
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.pdb
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/CsBases.genruntimeconfig.cache
+/Users/josedomenico/Documents/cursos/devtalles/dotNET/projects/CsBases/obj/Debug/net10.0/ref/CsBases.dll
